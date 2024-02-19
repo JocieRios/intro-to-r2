@@ -15,7 +15,6 @@ two
 # Question 3
 
 three <- diag(c(3,3,3,3,3))
-three
 three[1, 2:5] <- c(1,1,1,1)
 three[2:5,1] <- c(2,2,2,2)
 three
