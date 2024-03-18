@@ -1,0 +1,8 @@
+Package: TwitchAnalytics
+Title: Extract personal insights from Twitch Stream Summary metrics
+Version: 0.0.0.9000
+Authors@R: "Joceline Rios <jocieriosr@gmail.com> [aut, cre]"
+Description: Functions and instructions to expedite drawing unique insights from your own    Twitch Stream Summary metrics- provided at the conclusion of each stream.
+Depends: R (>= 3.1.2)
+License: CC0
+LazyData: true
