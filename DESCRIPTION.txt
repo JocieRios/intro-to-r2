@@ -1,4 +1,4 @@
-Package: TwitchAnalytics
+Package: TwitchAnalysis
 Title: Extract personal insights from Twitch Stream Summary metrics
 Version: 0.0.0.9000
 Authors@R: "Joceline Rios <jocieriosr@gmail.com> [aut, cre]"
